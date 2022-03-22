@@ -2,3 +2,4 @@ docs/assets/cpp/playground_headers.single.hpp
 docs/content/_index.adoc
 docs/public/
 docs/resources/
+bazel-*
